@@ -1,3 +1,4 @@
 name: Faster than C
 description: "Documenting my steps..."
 theme: jekyll-theme-leap-day
+permalink: /blog/:year/:month/:day/:title
