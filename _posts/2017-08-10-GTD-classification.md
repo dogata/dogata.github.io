@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "GTD classification"
+title: "Classifying GTD dataset with AdaBoost"
 category: machine-learning
 ---
 
-# Classifying GTD dataset with AdaBoost
-- The [Global Terrorism Database (GTD)](https://www.start.umd.edu/gtd/) is compiled by the University of Maryland START program
+An attempt to use AdaBoost to classify the success of terrorist attacks documented in the [Global Terrorism Database (GTD)](https://www.start.umd.edu/gtd/).  The GTD is compiled and maintained by the University of Maryland START program
 
 ## Import data from `xlsx` file
 - Data types are obtained from `codebook.pdf`
