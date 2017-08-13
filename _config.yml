@@ -1,4 +1,6 @@
-name: Faster than C
+title: Acceleration of light
 description: "Documenting my steps..."
 theme: jekyll-theme-leap-day
 permalink: /blog/:year/:month/:day/:title
+include: ['_pages']
+baseurl: ""
