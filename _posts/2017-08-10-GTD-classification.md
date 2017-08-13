@@ -14,7 +14,7 @@ category: machine-learning
 - The database has been exported to tab-delimited form.
 
 The VBS script to remove carriage return has been adopted from an online [VBA script](https://www.ablebits.com/office-addins-blog/2013/12/03/remove-carriage-returns-excel/)
-```VBA
+```vb
 'Script to remove carriage returns. Carriage returns prevent proper import
 Sub RemoveCarriageReturns()
     Dim MyRange As Range
@@ -44,3 +44,7 @@ Sub RemoveCarriageReturns()
     Application.Calculation = xlCalculationAutomatic
 End Sub
 ```
+
+## Feature selection
+
+## Classification
