@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Classifying GTD dataset with AdaBoost"
-date:   2017-15-07 12:00:00 -0700
+date: 2017-07-15 12:00:00 -0700
 category: machine-learning
 ---
 
@@ -110,4 +110,4 @@ The first split is by target type (20 = Unknown). The second split is by the att
 With GraphLab's gradient boosted tree, the accuracy is about 72% for the training data.
 ![](/assets/gradient_boosted_tree.png)
 
-Also, the most frequent value is the attach type (6 = Explosives/Bombs/Dynamites). 
+Also, the most frequent value is the attach type (6 = Explosives/Bombs/Dynamites).
