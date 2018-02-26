@@ -5,7 +5,7 @@ date: 2017-07-15 12:00:00 -0700
 category: machine-learning
 ---
 
-An attempt to use AdaBoost to classify the success of terrorist attacks documented in the [Global Terrorism Database (GTD)](https://www.start.umd.edu/gtd/).  The GTD is compiled and maintained by the University of Maryland START program
+An attempt to use AdaBoost to classify the success of terrorist attacks documented in the [Global Terrorism Database (GTD)](https://www.start.umd.edu/gtd/).  The GTD is compiled and maintained by the University of Maryland START program.
 
 ## Import data from `xlsx` file
 - Data types are obtained from `codebook.pdf`
@@ -110,4 +110,4 @@ The first split is by target type (20 = Unknown). The second split is by the att
 With GraphLab's gradient boosted tree, the accuracy is about 72% for the training data.
 ![](/assets/gradient_boosted_tree.png)
 
-Also, the most frequent value is the attach type (6 = Explosives/Bombs/Dynamites).
+Also, the most frequent value is the attack type (6 = Explosives/Bombs/Dynamites).
