@@ -16,7 +16,7 @@ $$\begin{aligned}
 \end{aligned}$$
 
 A sample of the output of these equations is shown below using
-parameter $\alpha = 1.5$, $k = 0.1$, $\rho = 18.5$, $a = 92$, $b =
+parameter \\(\alpha = 1.5\\), $k = 0.1$, $\rho = 18.5$, $a = 92$, $b =
 64$, $d = 10$, $\gamma = 15$.  The boundary conditions are Newmann
 condition in the x-direction and periodic in y.  The equations are
 time advanced using a simple explicit center time difference scheme.

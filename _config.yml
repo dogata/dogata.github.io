@@ -4,3 +4,4 @@ theme: jekyll-theme-dinky
 permalink: /blog/:year/:month/:day/:title
 include: ['_pages']
 baseurl: ""
+markdown: redcarpet
