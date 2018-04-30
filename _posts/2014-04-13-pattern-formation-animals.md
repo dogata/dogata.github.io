@@ -25,5 +25,6 @@ time advanced using a simple explicit center time difference scheme.
 |:--:|
 | *Simulated reaction-diffusion equations over a square domain with periodic boundary conditions in the y-direction.* |
 
-Reference: J.D. Murray, A Pre-pattern Formation Mechanism for Animal
-Coat Markings, J. theor. Biol. 88 (1), 1981 p.161 - 199 ([link](<https://doi.org/10.1016/0022-5193(81)90334-9>))
+---
+## Reference
+J.D. Murray, [A Pre-pattern Formation Mechanism for Animal Coat Markings](https://doi.org/10.1016/0022-5193(81)90334-9), J. theor. Biol. 88 (1), 1981, 161 - 199.
